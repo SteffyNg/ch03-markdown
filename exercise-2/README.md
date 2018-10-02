@@ -9,3 +9,9 @@ you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+| Courses      | Course Title | Instructor   |
+|:------------:|:------------:|:------------:|
+| **INFO201** | Technical Foundations | Ott Toomet |
+| **STATS311** |Elements Of Statistical Methods| Ranjini Grove |
+| **INFO270** |Data Reasoning In A Digital World| Jevin West & Carl T. Bergstrom|
