@@ -12,6 +12,6 @@ See `complete` branch for answers.
 
 | Courses      | Course Title | Instructor   |
 |:------------:|:------------:|:------------:|
-| **INFO201** | Technical Foundations | Ott Toomet |
-| **STAT311** |Elements Of Statistical Methods| Ranjini Grove |
-| **INFO270** |Data Reasoning In A Digital World| Jevin West & Carl T. Bergstrom|
+| **INFO201** | _Technical Foundations_ | Ott Toomet |
+| **STAT311** | _Elements Of Statistical Methods_ | Ranjini Grove |
+| **INFO270** | _Data Reasoning In A Digital World_ | Jevin West & Carl T. Bergstrom|
