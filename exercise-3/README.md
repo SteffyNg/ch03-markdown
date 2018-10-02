@@ -16,3 +16,14 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# ls
+The `ls` command can be used to list the elements in a directory.
+
+`ls`
+
+Here is more information of the command:
+
+The command `ls` list only elements that are visible to the user.
+- If the user wants to see hidden files, `-a` should be added making it `ls -a`.
+- For chronological sorting of the listed elements add `-t` making it `ls -t`.
